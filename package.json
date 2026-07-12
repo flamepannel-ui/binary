@@ -1,0 +1,15 @@
+{
+  "name": "bgmi-child",
+  "version": "1.0.0",
+  "description": "BGMI Attack Child Service with flame binary",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
